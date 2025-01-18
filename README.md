@@ -1,2 +1,2 @@
 # Proz
-focado nas atividades da Proz
+focado nas atividades da Proz!
